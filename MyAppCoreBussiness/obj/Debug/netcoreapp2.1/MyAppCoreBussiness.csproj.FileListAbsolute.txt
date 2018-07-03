@@ -1,0 +1,16 @@
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\obj\Debug\netcoreapp2.1\MyAppCoreBussiness.csprojAssemblyReference.cache
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\obj\Debug\netcoreapp2.1\MyAppCoreBussiness.csproj.CoreCompileInputs.cache
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\obj\Debug\netcoreapp2.1\MyAppCoreBussiness.AssemblyInfoInputs.cache
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\obj\Debug\netcoreapp2.1\MyAppCoreBussiness.AssemblyInfo.cs
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\bin\Debug\netcoreapp2.1\MyAppCoreBussiness.deps.json
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\bin\Debug\netcoreapp2.1\MyAppCoreBussiness.dll
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\bin\Debug\netcoreapp2.1\MyAppCoreBussiness.pdb
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\bin\Debug\netcoreapp2.1\MyAppCore.Common.dll
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\bin\Debug\netcoreapp2.1\MyAppCore.MyAppCoreComponents.dll
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\bin\Debug\netcoreapp2.1\MyAppCore.MyAppCoreDb.dll
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\bin\Debug\netcoreapp2.1\MyAppCore.MyAppCoreDb.pdb
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\bin\Debug\netcoreapp2.1\MyAppCore.Common.pdb
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\bin\Debug\netcoreapp2.1\MyAppCore.MyAppCoreComponents.pdb
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\obj\Debug\netcoreapp2.1\MyAppCoreBussiness.csproj.CopyComplete
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\obj\Debug\netcoreapp2.1\MyAppCoreBussiness.dll
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreBussiness\obj\Debug\netcoreapp2.1\MyAppCoreBussiness.pdb

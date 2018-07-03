@@ -1,0 +1,12 @@
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\bin\Debug\netcoreapp2.0\MyAppCore.MyAppCoreComponents.deps.json
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\bin\Debug\netcoreapp2.0\MyAppCore.MyAppCoreComponents.dll
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\bin\Debug\netcoreapp2.0\MyAppCore.MyAppCoreComponents.pdb
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\bin\Debug\netcoreapp2.0\MyAppCore.Common.dll
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\bin\Debug\netcoreapp2.0\MyAppCore.Common.pdb
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\obj\Debug\netcoreapp2.0\MyAppCoreComponents.csprojAssemblyReference.cache
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\obj\Debug\netcoreapp2.0\MyAppCoreComponents.csproj.CoreCompileInputs.cache
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\obj\Debug\netcoreapp2.0\MyAppCoreComponents.AssemblyInfoInputs.cache
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\obj\Debug\netcoreapp2.0\MyAppCoreComponents.AssemblyInfo.cs
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\obj\Debug\netcoreapp2.0\MyAppCoreComponents.csproj.CopyComplete
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\obj\Debug\netcoreapp2.0\MyAppCore.MyAppCoreComponents.dll
+C:\Users\50002599\Desktop\MyAppCore\MyAppCoreComponents\obj\Debug\netcoreapp2.0\MyAppCore.MyAppCoreComponents.pdb

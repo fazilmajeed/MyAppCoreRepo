@@ -1,0 +1,9 @@
+E:\Fasil\Fasil\Workspace\ExpinCore\ExpinDbCore\bin\Debug\netcoreapp2.0\ExpinDbCore.deps.json
+E:\Fasil\Fasil\Workspace\ExpinCore\ExpinDbCore\bin\Debug\netcoreapp2.0\ExpinDbCore.dll
+E:\Fasil\Fasil\Workspace\ExpinCore\ExpinDbCore\bin\Debug\netcoreapp2.0\ExpinDbCore.pdb
+E:\Fasil\Fasil\Workspace\ExpinCore\ExpinDbCore\obj\Debug\netcoreapp2.0\ExpinDbCore.csprojResolveAssemblyReference.cache
+E:\Fasil\Fasil\Workspace\ExpinCore\ExpinDbCore\obj\Debug\netcoreapp2.0\ExpinDbCore.csproj.CoreCompileInputs.cache
+E:\Fasil\Fasil\Workspace\ExpinCore\ExpinDbCore\obj\Debug\netcoreapp2.0\ExpinDbCore.AssemblyInfoInputs.cache
+E:\Fasil\Fasil\Workspace\ExpinCore\ExpinDbCore\obj\Debug\netcoreapp2.0\ExpinDbCore.AssemblyInfo.cs
+E:\Fasil\Fasil\Workspace\ExpinCore\ExpinDbCore\obj\Debug\netcoreapp2.0\ExpinDbCore.dll
+E:\Fasil\Fasil\Workspace\ExpinCore\ExpinDbCore\obj\Debug\netcoreapp2.0\ExpinDbCore.pdb

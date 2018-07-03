@@ -1,0 +1,16 @@
+E:\Fasil\Fasil\Workspace\ExpinCore\Common\bin\Debug\netcoreapp2.0\ExpinCore.Common.deps.json
+E:\Fasil\Fasil\Workspace\ExpinCore\Common\bin\Debug\netcoreapp2.0\ExpinCore.Common.dll
+E:\Fasil\Fasil\Workspace\ExpinCore\Common\bin\Debug\netcoreapp2.0\ExpinCore.Common.pdb
+E:\Fasil\Fasil\Workspace\ExpinCore\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+E:\Fasil\Fasil\Workspace\ExpinCore\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+E:\Fasil\Fasil\Workspace\ExpinCore\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+E:\Fasil\Fasil\Workspace\ExpinCore\Common\obj\Debug\netcoreapp2.0\ExpinCore.Common.dll
+E:\Fasil\Fasil\Workspace\ExpinCore\Common\obj\Debug\netcoreapp2.0\ExpinCore.Common.pdb
+C:\Users\50002599\Desktop\MyAppCore\Common\bin\Debug\netcoreapp2.0\MyAppCore.Common.deps.json
+C:\Users\50002599\Desktop\MyAppCore\Common\bin\Debug\netcoreapp2.0\MyAppCore.Common.dll
+C:\Users\50002599\Desktop\MyAppCore\Common\bin\Debug\netcoreapp2.0\MyAppCore.Common.pdb
+C:\Users\50002599\Desktop\MyAppCore\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\50002599\Desktop\MyAppCore\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+C:\Users\50002599\Desktop\MyAppCore\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+C:\Users\50002599\Desktop\MyAppCore\Common\obj\Debug\netcoreapp2.0\MyAppCore.Common.dll
+C:\Users\50002599\Desktop\MyAppCore\Common\obj\Debug\netcoreapp2.0\MyAppCore.Common.pdb

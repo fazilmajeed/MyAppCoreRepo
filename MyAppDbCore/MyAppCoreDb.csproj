@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>MyAppCore.MyAppCoreDb</RootNamespace>
+    <AssemblyName>MyAppCore.MyAppCoreDb</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Business\Interfaces\ICountryBusiness.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+    <ProjectReference Include="..\MyAppCoreComponents\MyAppCoreComponents.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Business\Interfaces\" />
+  </ItemGroup>
+
+</Project>
